@@ -1,8 +1,14 @@
 # Group Project Data Mining
 
-This project about using machine learning techniques in data mining includes; K-Nearest Neighbors (K-NN), Classification Tree and Naive Bayes methods to classify married variable in Determinants of Wages Data (CPS1985) Dataset.
+This project applies machine learning techniques in data mining to classify the 'married' variable in the Determinants of Wages dataset (CPS1985). The methods used include:
 
-In my work, I work on Classification Tree and Naive Bayes methods.
+-K-Nearest Neighbors (K-NN)
+
+-Classification Tree
+
+-Naive Bayes
+
+In this project, I focused on implementing and analyzing the Classification Tree and Naive Bayes methods. The goal was to understand how well each algorithm performs in classifying marital status and to compare their effectiveness in terms of accuracy and interpretability.
 
 ## Dataset
 - **Name of dataset**: Determinants of Wages Data (CPS1985) Dataset.
