@@ -2,11 +2,11 @@
 
 This project applies machine learning techniques in data mining to classify the 'married' variable in the Determinants of Wages dataset (CPS1985). The methods used include:
 
--K-Nearest Neighbors (K-NN)
+- **K-Nearest Neighbors (K-NN)**
 
--Classification Tree
+- **Classification Tree**
 
--Naive Bayes
+- **Naive Bayes**
 
 In this project, I focused on implementing and analyzing the Classification Tree and Naive Bayes methods. The goal was to understand how well each algorithm performs in classifying marital status and to compare their effectiveness in terms of accuracy and interpretability.
 
